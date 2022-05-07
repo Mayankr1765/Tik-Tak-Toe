@@ -18,7 +18,7 @@
   .main{
       display: block;
       margin: auto;
-      padding : 100px 100px;
+      padding : 150px 400px;
       background-color: bisque;
   }
 
@@ -28,9 +28,11 @@
 
   .btn{
       background-color: chocolate;
+      position: relative;
       height: 50px;
       width: 100px;
-      display: block;
-      padding: auto;
+      margin-top: 10px;
+      margin-left: 110px;
+      /* padding: 30px 30px */
       
   }
